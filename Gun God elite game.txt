@@ -1,0 +1,5 @@
+// ISO Game: Stellar Conquest
+public class StellarConquest {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Stellar Conquest!");
+        // Add your Stellar Conquest game script here
